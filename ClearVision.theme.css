@@ -1,16 +1,6 @@
-/**
- * @name ClearVision V7 for BetterDiscord
- * @author ClearVision Team
- * @version 7.0.1
- * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v7
- * @website https://clearvision.github.io
- * @invite dHaSxn3
- */
-/* IMPORT CSS */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
-/* SETTINGS */
+/**/
 :root {
   /* ACCENT COLORS */
   --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
